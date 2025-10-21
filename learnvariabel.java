@@ -1,6 +1,10 @@
 public class learnvariabel {
     public static void main(String[] args) {
         int umur;
-        Strange 
+        String nama;
+Scanner newScan
+        
+        System.out.println();
+
     }
 }
